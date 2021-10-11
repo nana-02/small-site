@@ -1,0 +1,26 @@
+$white01: rgb(178, 174, 178);
+$white02: rgb(190, 186, 183);
+$white03: rgb(201, 199, 197);
+$white04: rgb(223, 224, 217);
+$white05: rgb(225, 238, 232);
+
+.m-w-bk01 {
+    background-color: $white01;
+}
+.m-w-bk02 {
+    background-color: $white02;
+}
+.m-w-bk03 {
+    background-color: $white03;
+}
+.m-w-bk04 {
+    background-color: $white04;
+}
+.m-w-bk05 {
+    background-color: $white05;
+}
+
+// font 
+.smart {
+    font-family: cursive;
+}

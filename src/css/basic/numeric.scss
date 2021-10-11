@@ -1,0 +1,32 @@
+body {
+  font-size: 1px;
+}
+
+footer, h2, header, input, p, section, ul {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  text-decoration: none;
+  list-style: none;
+}
+
+  /* button要素そのものには何もしない*/
+.button {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid #000;
+    margin: 0;
+    padding: 0.3em 1em;
+    text-align: center;
+    line-height: 1;
+    background: #EEE;
+    text-decoration: none;
+    font-size: inherit;
+    color: inherit;
+    cursor: pointer;
+}

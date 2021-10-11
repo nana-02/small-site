@@ -1,0 +1,19 @@
+@import './basic/numeric';
+@import './basic/color';
+@import './basic/mode';
+@import './basic/destyle';
+
+@import './basic/cosmetic';
+
+@import './base/header';
+@import './base/section';
+@import './base/aside';
+@import './base/footer';
+
+.mini {
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    margin-top: 120px;
+    padding: 0;
+}
